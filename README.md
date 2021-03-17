@@ -1,4 +1,13 @@
-### Hi there 👋
+<table>
+  <tr>
+    <td>
+      <img align="left" width="400" alt="" src="https://github.com/Santo-G/Santo-G/blob/main/github-left-metrics.svg">
+    </td>
+    <td>
+      <img align="right" width="400" alt="" src="https://github.com/Santo-G/Santo-G/blob/main/github-right-metrics.svg">
+    </td>
+  </tr>
+</table>
 
 <!--
 **Santo-G/Santo-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
