@@ -22,6 +22,13 @@ jobs:
           base: header, activity, community
           config_timezone: Europe/Rome
           plugin_followup: yes
+          plugin_languages: yes
+          plugin_languages_colors: kotlin:orange, c:blue, java:red
+          plugin_languages_threshold: 0%
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, vue, scala, c
+          plugin_languages_skipped: Santo-G
+          plugin_languages_details: bytes-size, percentage
+          
     
   github-right-metrics:
     runs-on: ubuntu-latest
@@ -39,10 +46,3 @@ jobs:
           config_timezone: Europe/Rome
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          plugin_languages: yes
-          plugin_languages_colors: kotlin:orange, c:blue, java:red
-          plugin_languages_threshold: 0%
-          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, vue, scala, c
-          plugin_languages_skipped: Santo-G
-          plugin_languages_details: bytes-size, percentage
-          
