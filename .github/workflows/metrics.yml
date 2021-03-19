@@ -18,7 +18,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
           user: Santo-G
-          repo: corso-android-ivan-morgillo
           template: classic
           base: header, activity, community, repositories
           repositories: 100
