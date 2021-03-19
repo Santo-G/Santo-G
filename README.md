@@ -9,8 +9,6 @@
   </tr>
 </table>
 
-<img align="center" width="1000" alt="" src="https://github.com/Santo-G/Santo-G/blob/aa0fde2c0fb266b5ad57771cd244132a44d33f5d/funny_img.png">
-
 <!--
 **Santo-G/Santo-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
