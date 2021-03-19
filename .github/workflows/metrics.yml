@@ -19,7 +19,7 @@ jobs:
           # Options
           user: Santo-G
           template: classic
-          base: header, activity, community
+          base: header, activity, community, repositories
           config_timezone: Europe/Rome
           plugin_followup: yes
           plugin_languages: yes
