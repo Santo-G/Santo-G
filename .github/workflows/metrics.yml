@@ -22,7 +22,6 @@ jobs:
           base: header, activity, community, repositories
           repositories: 100
           config_timezone: Europe/Rome
-          plugin_followup: yes
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, vue, scala
           plugin_languages_skipped: Santo-G
