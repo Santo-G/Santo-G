@@ -1,5 +1,3 @@
-<h1 align="center">Hi there 👋</h1>
-<h3 align="center">I'm an Android Developer currently experimenting on Jetpack Compose and Clean Architecture.</h3> 
 
 ---
 <table>
